@@ -1,0 +1,3 @@
+Introdução: https://www.devmedia.com.br/introducao-as-plataformas-java/29544
+
+Ambiente de Desenvolvimento: http://www.linhadecodigo.com.br/artigo/586/ambiente-de-desenvolvimento-em-java.aspx
